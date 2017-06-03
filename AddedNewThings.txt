@@ -1,1 +1,2 @@
-this is a conflict@
+this is a resolved conflict@!this is a conflict@
+this is a conflict!
